@@ -6,8 +6,8 @@ Swades
 Black
 12 Angry Men
 =========
-Red
-Green
+Violet
+Indigo
 Blue
 
 
